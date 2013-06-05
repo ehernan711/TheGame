@@ -203,7 +203,7 @@ if (feedback>7)
 }
 else
 {
-	confirm("I slave away at this game and you gave me that score?! The nerve! Just you wait!");
+	confirm("I worked so hard at this game and you gave me that score?! The nerve! Just you wait!");
 }
 
 </script>
